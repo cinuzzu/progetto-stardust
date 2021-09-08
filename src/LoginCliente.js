@@ -31,7 +31,7 @@ export default class LoginCliente extends Component{
 
   axiosPost = () => {
 
-    axios.post("http://progetto-stardust.herokuapp.com/Client/AccessoCliente", this.state)
+    axios.post("https://progetto-stardust.herokuapp.com/Client/AccessoCliente", this.state)
         .then(result => {
             
                
@@ -72,7 +72,7 @@ export default class LoginCliente extends Component{
     return (
       <div className="Login text-center">
         
-        <h1>Login Cliente modificato</h1>
+        <h1>Login Cliente</h1>
         <br/><br/><br/>
         <Form>
           <Form.Group size="lg" controlId="email">
