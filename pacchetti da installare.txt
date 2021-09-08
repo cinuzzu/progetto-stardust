@@ -1,0 +1,27 @@
+utilizzare npm versione '6.14.12'
+poichè con versioni successive (tipo la 7)
+alcuni pacchetti non vengono installati
+correttamente
+
+-------------------------------------
+datepicker
+
+npm i @syncfusion/ej2-react-calendars
+
+-------------------------------------
+Lato back-end (serve per evitare OPTIONS)
+
+npm install cors
+-------------------------------------
+otp codice
+
+npm install --save react-otp-input
+----------------------------------------
+alert di conferma
+
+npm install react-confirm-alert --save
+
+---------------------------------------
+tabelle
+
+npm install react-bootstrap-table-next --save

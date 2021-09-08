@@ -1,0 +1,9 @@
+Backup aggiornato al 28/08
+Ultima modifica:
+	
+	-myProfile
+	-modificaProfilo
+
+(prima di importare da Mario:
+	-GestioneAutisti
+	-LoginAziendale       )
